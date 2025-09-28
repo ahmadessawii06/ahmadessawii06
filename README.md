@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Zeyad Habbab</h1>
-<h3 align="center">A Frontend developer from Earth.</h3>
+<h1 align="center">Hi 👋, I'm Ahmad Essawii</h1>
+<h3 align="center">A CAP student from Earth.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeiadhabbab?tab=repositories](https://github.com/zeiadhabbab?tab=repositories)
 
-- 📝 I regularly write articles on [https://zeyadmh.com/](https://zeyadmh.com/)
+- 💬 Ask me about **C++**
 
-- 💬 Ask me about **Angular, Html, CSS, React, JavaScript, Typescript**
-
-- 📫 How to reach me **me@zeyadmh.com**
+- 📫 How to reach me **ahmadessawii06@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1a3WnXAGPEcR0oRwBtadAzC9RbN7H3QXE/view?usp=sharing](https://drive.google.com/file/d/1a3WnXAGPEcR0oRwBtadAzC9RbN7H3QXE/view?usp=sharing)
 
