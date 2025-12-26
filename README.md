@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Essawii</h1>
-<h3 align="center">a CAP student from Earth.</h3>
+<h3 align="center">CAP STUDENT FROM THE EARTH.</h3>
 <h3 align="center" > I Love Debugging Bugs <3 </h3>
 
 - 💬 Ask me about **C++**.
