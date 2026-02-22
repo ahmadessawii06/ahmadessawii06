@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Essawii</h1>
-<h3 align="center">CAP STUDENT FROM NNU.</h3>
+<h3 align="center">CAP STUDENT FROM NNU. - Leader Of SynTag Team.</h3>
 <h3 align="center" > Debugging Bugs <3 </h3>
 
 
