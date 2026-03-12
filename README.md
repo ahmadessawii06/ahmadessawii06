@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Essawii</h1>
 
 <h3 align="center">CAP STUDENT FROM NNU - Head of SynTag & Pinks Teams.</h3>
-<h3 align="center">Focused On Helping Others When Possible, And Debugging. Interested In The Field Of Artificial Intelligence.</h3>
+<h3 align="center">Focused On Helping Others When Possible, And Debugging. Interested In The Artificial Intelligence.</h3>
 <h3 align="center" > Debugging Bugs + Still Depressed. </3 </h3>
 
 
